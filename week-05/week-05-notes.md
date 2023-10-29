@@ -9,7 +9,7 @@
 
 **Call lead**: Bérénice Batut, Yo Yehudi
 
-**Facilitator**:
+**Facilitator**: Doaa Abdelkader
 
     
 
@@ -55,7 +55,16 @@
 Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
    *  Alette Schoon/ DigiMethods Africa MOOC/ :)
-   *  
+   *  Bérénice / OLS / bebatut / 🤔
+* Yo / OLS 
+*Tajuddeen / OLS
+* Jolien Scholten / Open source handbook infrastructure
+* Derek Moore / Open Umbrella (https://weblearning.co.za/umbrella/)  / @Weblearning (https://social.ds106.us/@weblearning)
+ *Yan-Kay Ho / Reclone Community "Building a Searchable Open Data Repository of DNA Collection" / @Just_YanKay | github.com/ykho001 / 
+* Marlou Ramaekers /Making CSR data publicly available 
+* Fatma/Identification and Prediction of Bacterial Pathogens Colonizing Yellowing Disease in Coastal Kenyan Coconuts: A Machine Learning Approach/Fatma366
+*Nicolas Palopoli / MetaDocencia / @npalopoli / 
+*Mónicca Alonso / Metadocencia / @monialo2000
    *  
    * 
 
@@ -63,7 +72,15 @@ Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
 *Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past…*
 
-   *  
+   *   Bérénice: rapid transition from summer to autumn, with leaves becoming yellow
+* Yo / tens of little birds in my rose bush, coming to eat birdseed I put out for them. Tiny, innocent, tweety. 
+ *Jolien / a woodpecker in our garden
+ *Doaa / Sea
+* Yan-Kay / seeing the mini-harvest from our garden (cherry tomatoes, morrows, little strawberries, chilis)
+ *Marlou / the leaves of the trees in my neighborhood changing from green to orange/red/yellow
+* Tajuddeen / I like the view of cereal plants like maize while growing. It looks very green and lovely
+* Derek  / Its spring here and our garden is starting to look beautiful. 
+*Nicolas / 
    *  
    *  
    *  
@@ -120,12 +137,13 @@ Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
 **Questions**
 
-   *   
+   *   Where should the local repository be located? On your c drive or in the cloud?
+Yo Yehudi:Git is known as a “distributed version control”, so every copy - wherever it is located, is the “primary” copy, and synchronizing them is reasonably straightforward
 
 
 ## 👥 Pull Request (PR) Exercise!
 
-[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 75]
+[YO] introduces, [Doaa] makes breakouts (15 min) [⏰ 75]
 
 15 minutes, ~3 ppl per room
 
@@ -166,7 +184,7 @@ Breakout Room 2 - Written/Spoken
    *  
 ## 🖥 Creating a small website with GitHub
 
-[HOST] (10 min)[⏰ 80]
+[Bérénice] (10 min)[⏰ 80]
 
 **Presenter**: PRESENTER
 
@@ -183,7 +201,7 @@ Breakout Room 2 - Written/Spoken
 
 ## 👥 Creating a GitHub page (website)!
 
-[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 90]
+[Bérénice] introduces, [Doaa] makes breakouts (15 min) [⏰ 90]
 
 15 minutes, ~3 ppl per room
 
@@ -226,7 +244,7 @@ Breakout Room 2 - Written/Spoken
 
 ## 🗣️ Closing
 
-[HOST] (5 min) [⏰ 90]
+[Yo] (5 min) [⏰ 90]
 
 
 
